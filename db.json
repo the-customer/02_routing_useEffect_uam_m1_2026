@@ -1,23 +1,44 @@
 {
-    "posts": [{
-            "id": 1,
-            "title": "Chat buzz",
-            "image": "https://cdn.videoweb.ai/videoweb/aivideo_home_2/template/image_to_video.webp",
-            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.",
-            "likes": 23,
-            "comments": [],
-            "created_at": "31/06/2025 19:23:09",
-            "user": "TheCustomer"
-        },
-        {
-            "id": 2,
-            "title": "Photographe",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zwhySGCEBxRRFYIcQgvOLOpRGqrT3d7Qng&s",
-            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.",
-            "likes": 256,
-            "comments": [],
-            "created_at": "03/05/2025 19:23:09",
-            "user": "Dudu"
-        }
-    ]
+  "posts": [
+    {
+      "title": "Chat du Roi",
+      "image": "https://cdn.videoweb.ai/videoweb/aivideo_home_2/template/image_to_video.webp",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.",
+      "likes": 0,
+      "comments": [],
+      "created_at": "13/02/2026",
+      "user": "TheCustomer",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Photographe",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zwhySGCEBxRRFYIcQgvOLOpRGqrT3d7Qng&s",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.",
+      "likes": 256,
+      "comments": [],
+      "created_at": "03/05/2025 19:23:09",
+      "user": "Dudu"
+    },
+    {
+      "id": "98e2",
+      "title": "Nature",
+      "image": "https://cdn.pixabay.com/photo/2016/11/21/06/53/beautiful-natural-image-1844362_1280.jpg",
+      "body": "La nature est belllllllllllllle",
+      "likes": 0,
+      "comments": [],
+      "created_at": "13/02/2026",
+      "user": "TheCustomer"
+    },
+    {
+      "id": "08af",
+      "title": "photo",
+      "image": "https://www.bigfootdigital.co.uk/wp-content/uploads/2020/07/image-optimisation-scaled.jpg",
+      "body": "bla bla bla",
+      "likes": 0,
+      "comments": [],
+      "created_at": "13/02/2026",
+      "user": "TheCustomer"
+    }
+  ]
 }

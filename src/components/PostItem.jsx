@@ -1,6 +1,11 @@
+import { useNavigate } from "react-router-dom";
 import { DEFAULT_IMG_PROFILE } from "../consts/Const";
 
-export default function PostItem({ posts }) {
+export default function PostItem({ posts, handleDeletePost }) {
+    const navigate = useNavigate()
+    function handleUpdatePost(id) {
+        navigate(`/create`, { state: { id } })
+    }
     return (
         <>
             {posts.length == 0 && <p className="text-sm text-red-400 text-center">No posts founds!</p>}
@@ -20,10 +25,14 @@ export default function PostItem({ posts }) {
                                 <small className="text-gray-500 text-xs">Posted on : {post.created_at}</small>
                             </div>
                             <div className="flex items-center gap-2">
-                                <button className="cursor-pointer">
+                                <button
+                                    onClick={() => handleDeletePost(post.id)}
+                                    className="cursor-pointer">
                                     <i className="fa-solid fa-trash text-red-500"></i>
                                 </button>
-                                <button className="cursor-pointer">
+                                <button
+                                    onClick={() => handleUpdatePost(post.id)}
+                                    className="cursor-pointer">
                                     <i className="fa-solid fa-pen-to-square text-yellow-500"></i>
                                 </button>
                             </div>
