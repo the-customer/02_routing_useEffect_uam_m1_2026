@@ -5,10 +5,10 @@ export default function Layout() {
         <div className="w-7xl mx-auto">
             <header className="border-b border-indigo-300 py-4 bg-indigo-50 px-4">
                 <nav className="flex items-center justify-between">
-                    <Link to="/" className="font-bold text-indigo-600 cursor-pointer">UAM Blog</Link>
+                    <Link to="/" className="font-bold text-indigo-600 cursor-pointer text-xl">UAM Blog</Link>
                     <div>
-                        <Link className="px-3 py-1 rounded-md hover:bg-indigo-600 hover:text-white cursor-pointer" to="/">Home</Link>
-                        <Link className="px-3 py-1 rounded-md hover:bg-indigo-600 hover:text-white cursor-pointer" to="/create">New Post</Link>
+                        <Link className="px-3 py-1 rounded-md hover:bg-indigo-400 hover:text-white cursor-pointer" to="/">Home</Link>
+                        <Link className="px-3 py-1 rounded-md hover:bg-indigo-400 hover:text-white cursor-pointer" to="/create">New Post</Link>
                     </div>
                 </nav>
             </header>

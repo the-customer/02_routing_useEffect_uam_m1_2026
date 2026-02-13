@@ -1,0 +1,23 @@
+{
+    "posts": [{
+            "id": 1,
+            "title": "Chat buzz",
+            "image": "https://cdn.videoweb.ai/videoweb/aivideo_home_2/template/image_to_video.webp",
+            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.",
+            "likes": 23,
+            "comments": [],
+            "created_at": "31/06/2025 19:23:09",
+            "user": "TheCustomer"
+        },
+        {
+            "id": 2,
+            "title": "Photographe",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zwhySGCEBxRRFYIcQgvOLOpRGqrT3d7Qng&s",
+            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae corrupti cumque odit earum voluptate dignissimos velit sint eius optio veniam id, libero vitae vero sed voluptatibus quisquam ea provident.",
+            "likes": 256,
+            "comments": [],
+            "created_at": "03/05/2025 19:23:09",
+            "user": "Dudu"
+        }
+    ]
+}
